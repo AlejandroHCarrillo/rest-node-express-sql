@@ -1,0 +1,29 @@
+{
+  "name": "citas",
+  "version": "1.0.0",
+  "description": "Sistema de citas",
+  "main": "index.js",
+  "scripts": {
+    "test": "cita"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroHCarrillo/rest-node-express-sql.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sql",
+    "server"
+  ],
+  "author": "Alejandro H. Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroHCarrillo/rest-node-express-sql/issues"
+  },
+  "homepage": "https://github.com/AlejandroHCarrillo/rest-node-express-sql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.2.0"
+  }
+}
